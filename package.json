@@ -21,7 +21,7 @@
     "argsarray": "0.0.1",
     "buffer-from": "^0.1.1",
     "d64": "^1.0.0",
-    "adm-zip": "^1.4.2",
+    "adm-zip": "^0.5.5",
     "inherits": "^2.0.1",
     "tiny-queue": "0.2.0"
   },
