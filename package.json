@@ -13,12 +13,12 @@
     "levelup",
     "easier-abstract-leveldown",
     "zip",
-    "adm-zip"
+    "jszip"
   ],
   "version": "0.7.1",
   "main": "lib/index.js",
   "dependencies": {
-    "adm-zip": "^0.5.5",
+    "jszip": "^3.7.1",
     "easier-abstract-leveldown": "^1.2.0"
   },
   "devDependencies": {},
