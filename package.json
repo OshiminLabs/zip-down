@@ -19,6 +19,7 @@
   "main": "lib/index.js",
   "dependencies": {
     "adm-zip": "^0.5.5",
+    "msgpack" : "^1.0.3",
     "easier-abstract-leveldown": "^1.2.0"
   },
   "devDependencies": {},
